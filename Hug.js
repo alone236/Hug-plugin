@@ -8,7 +8,7 @@
             a = i.registerCommand({
                 name: "hug",
                 displayName: "hug",
-                displayDescription: "Use hug gif",
+                displayDescription: "Generate hug gif",
                 description: "Powered by nekos.best",
                 options: [],
                 execute: s,
